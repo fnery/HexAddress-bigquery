@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fnery/HexAddress-bigquery/issues"
   },
-  "homepage": "https://github.com/fnery/HexAddress-bigquery#readme"
+  "homepage": "https://github.com/fnery/HexAddress-bigquery#readme",
+  "dependencies": {
+    "jssha": "^3.3.1"
+  }
 }
