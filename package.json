@@ -1,0 +1,19 @@
+{
+  "name": "hexaddress-bigquery",
+  "version": "1.0.0",
+  "description": "Packing https://gist.github.com/Aziz87/bbf95f8525c5302c8c69644a12bc7d72 for use in a BigQuery UDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fnery/HexAddress-bigquery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fnery/HexAddress-bigquery/issues"
+  },
+  "homepage": "https://github.com/fnery/HexAddress-bigquery#readme"
+}
